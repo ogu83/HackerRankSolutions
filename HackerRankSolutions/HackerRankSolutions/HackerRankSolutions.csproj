@@ -42,6 +42,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="BotSavesPrincess.cs" />
+    <Compile Include="BotSavesPrincess2.cs" />
     <Compile Include="CutTheSticks.cs" />
     <Compile Include="DiagonalDiff.cs" />
     <Compile Include="GemStones.cs" />
