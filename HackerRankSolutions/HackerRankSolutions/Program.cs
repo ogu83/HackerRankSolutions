@@ -10,7 +10,7 @@ namespace HackerRankSolutions
     {
         static void Main(string[] args)
         {
-
+            BotSavesPrincess.Main.Exec();
         }
     }
 }
